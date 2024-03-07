@@ -5,3 +5,5 @@
  * @copyright Copyright (c):
  *    2024 OmniVision Co.,Ltd
  */
+ 
+ static u8 g_test_value = (u8)0u;
